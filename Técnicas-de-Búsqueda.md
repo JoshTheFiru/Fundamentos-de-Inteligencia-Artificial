@@ -20,7 +20,7 @@ Los siguientes recursos desarrollan explicaciones sobre los diferentes algoritmo
 - https://www.javatpoint.com/ai-uninformed-search-algorithms (Técnicas de Búsqueda sin Información)
 - https://www.youtube.com/watch?v=bSv4CWMTeR0 (Prof. Pieter Abbeel. Lecture 2 Uninformed Search Universidad de Berkeley, Primavera 2014).
 - https://www.youtube.com/watch?v=1wu2sojwsyQ (<a href= "https://www.youtube.com/channel/UCUbp3Qabq6iYQrN2QC-ZUXw/videos"> John Levine </a>, Búsqueda Primero en Anchura Parte 1)
-- https://www.youtube.com/watch?v=n3fPL9q_Nyc (<a href= "https://www.youtube.com/channel/UCUbp3Qabq6iYQrN2QC-ZUXw/videos"> John Levine </a>, Búsqueda Primero en Anchura Parte 1)
+- https://www.youtube.com/watch?v=n3fPL9q_Nyc (<a href= "https://www.youtube.com/channel/UCUbp3Qabq6iYQrN2QC-ZUXw/videos"> John Levine </a>, Búsqueda Primero en Anchura Parte 2)
 - https://www.youtube.com/watch?v=h1RYvCfuoN4 (<a href= "https://www.youtube.com/channel/UCUbp3Qabq6iYQrN2QC-ZUXw/videos"> John Levine </a>, Búsqueda Primero en Profundidad)
 - https://www.youtube.com/watch?v=Y85ECk_H3h4 (<a href= "https://www.youtube.com/channel/UCUbp3Qabq6iYQrN2QC-ZUXw/videos"> John Levine </a>, Búsqueda en Profundidad Iterativa)
 - https://www.youtube.com/watch?v=dRMvK76xQJI (<a href= "https://www.youtube.com/channel/UCUbp3Qabq6iYQrN2QC-ZUXw/videos"> John Levine </a>, Búsqueda de Coste Uniforme)
