@@ -3,6 +3,8 @@ En este repositorio se recogen recursos útiles y externos asociados al temario 
 
 Usado como método para facilitar el acceso a su lectura a través de mi Discord de universidad, si puede servirte de ayuda o quieres aportar algún recurso, no dudes en usarlo.
 
+Es importante recordar que estos recursos en ningún caso pretenden sustituir los materiales y bibliografías oficiales de la asignatura, si no que su cometido es poder servir como medio para profundizar en las explicaciones proporcionadas en los libros de texto, o bien para ver estos mismos contenidos desde otro punto de vista que pueda complementar los materiales oficiales. 
+
 Si quieres unirte a mi Discord: https://discord.gg/JmuG6xJXQM
 
 ------------------------------------------------------------------------------------
