@@ -11,7 +11,7 @@ Si quieres unirte a mi Discord: https://discord.gg/JmuG6xJXQM
 
 El índice de contenidos de la asignatura es el siguiente. En cada uno de los elementos del contenido podrás encontrar recursos externos de ayuda a la comprensión y profundización de la materia: 
 
-1. Paradigmas
+1. <a href="https://github.com/JoshTheFiru/Fundamentos-de-Inteligencia-Artificial/blob/main/paradigmas.md"> Paradigmas </a>
 2. <a href="https://github.com/JoshTheFiru/Fundamentos-de-Inteligencia-Artificial/blob/main/T%C3%A9cnicas-de-B%C3%BAsqueda.md"> Técnicas de Búsqueda.</a>
 3. Lógicas
 4. Sistemas Basados en Reglas
